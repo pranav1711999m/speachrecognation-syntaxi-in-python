@@ -1,4 +1,4 @@
-# speachrecognation-syntaxi-in-python
+#speachrecognation-syntaxi-in-python
 def takeCommand():
     #it takes microphone input from the user and return string output
 
