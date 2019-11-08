@@ -19,3 +19,5 @@ def takeCommand():
         speak("say that again please") '''exceptional case'''
         return "none"        
     return query
+ The
+ 
